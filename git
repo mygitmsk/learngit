@@ -1,0 +1,6 @@
+yum install git
+git --version
+git --help
+git add filename
+git add filename2
+git commit -m "text describe"
